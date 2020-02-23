@@ -1,0 +1,7 @@
+id=TrustUserCerts
+name=TrustUserCerts
+version=v0.1
+versionCode=1
+author=hackooop@gmail.com
+description=Move all user certs to system
+minMagisk=20000
